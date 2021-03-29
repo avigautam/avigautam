@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avinash Gautam
-- 👀 I’m interested in programming specialized in Java 8.
+- 👀 I’m specialized in Java 8.
 - 🌱 I’m currently learning Java 11 certification related content on Oracle University and Udemy
 - 💞️ I’m looking to collaborate on Java, SpringBoot, VueJs and JUnit5
 - 📫 Reach me on 8655013072
