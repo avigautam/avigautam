@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avinash Gautam, certified Azure Developer Associate
-- 👀 Specialized in Java 8, Java 9 and Azure development
+- 👀 Specialized in Java 8, Java 9, SpringBoot and Azure development
 - 🌱 Currently learning Java 11 certification related content on Oracle University and Udemy
 - 💞️ Looking to collaborate on: Java, SpringBoot, VueJs, Azure and JUnit5
 - 📫 Reach me on 8655013072
