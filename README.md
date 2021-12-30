@@ -4,7 +4,7 @@
 - 💞️ Looking to collaborate on: Java, SpringBoot, VueJs, Azure and JUnit5
 - 📫 Reach me on avigautam.knit@gmail.com
 
-![CERT-Expert-DevOps-Engineer-75x75](https://user-images.githubusercontent.com/55783780/147728961-0e8d25b4-8a39-46cb-bb03-cf0f76cbd3a2.png)
+![CERT-Expert-DevOps-Engineer-600x600](https://user-images.githubusercontent.com/55783780/147729186-858ca081-130a-43d9-89b1-04990b5d499d.png)
 
      ![azure-developer-associate-75x75](https://user-images.githubusercontent.com/55783780/112965252-b5ef9080-9166-11eb-8604-57082ff7b875.png)
 
