@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avinash Gautam, MS certified Azure DevOps Engineer Expert.
-- 👀 Specialized in Java 8, Java 9, SpringBoot, Azure, and Docker and Kubernetes.
+- 👀 Specialized in Docker and Kubernetes, Java 8, Java 9, SpringBoot, and Azure Cloud Services.
 - 🌱 Currently learning Java 11 certification related content on Oracle University and Udemy
 - 💞️ Looking to collaborate on: Java, SpringBoot, VueJs, Azure and JUnit5
 - 📫 Reach me on avigautam.knit@gmail.com
